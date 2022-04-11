@@ -1,0 +1,48 @@
+body {
+	background-color: #54b9c7;
+
+}
+h1{
+	font-family:Trebuchet MS, sans-serif;
+
+}
+h2{
+	color: #b4eaf1;
+	font-family:Trebuchet MS, sns-serif;
+	padding: 7px;
+}
+h3{
+
+	font-family:Trebuchet MS, sns-serif;
+	padding: 7px;
+
+}
+
+#a {
+	text-align: center;
+	margin: auto;
+	border: solid #ff7469 3px;
+	padding: 10px;
+	width: 30%;
+	height: 150px;
+}
+#b {
+	float: left;
+	border: dotted #ff7469 5px;
+	width: 31.6%;
+	margin: 0.5%;
+}
+#c {
+	text-align: center;
+	margin: auto;
+	border: solid #ff7469 3px;
+	padding: 10px;
+	width: 30%;
+	height: 110px;
+	clear: both; 
+}
+img {
+	width: 96%;
+	height: 96%;
+	margin: 8px;
+}
